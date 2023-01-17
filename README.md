@@ -9,6 +9,12 @@ Requirements
 + dialog
   
   sudo apt install dialog
+  
+ Run script
+ ----------
+ 
+chmod 755 db.sh  
+sh db.sh
 
 Screenshot
 ----------
